@@ -3,9 +3,25 @@
   "displayName": "Smooth UX",
   "version": "1.0.0",
   "description": "Make a web app feel responsive: every click answers (pressed, busy, done), optimistic UI with revert, content-shaped skeletons, instant route feedback and cheap motion. For React and Next.js front ends.",
-  "author": { "name": "Thinh Le", "url": "https://github.com/thinhledev" },
+  "author": {
+    "name": "Thinh Le",
+    "url": "https://github.com/thinhledev"
+  },
   "homepage": "https://github.com/thinhledev/smooth-ux",
   "repository": "https://github.com/thinhledev/smooth-ux",
   "license": "MIT",
-  "keywords": ["ux", "optimistic-ui", "skeleton-loading", "loading-states", "toast", "motion", "react", "nextjs"]
+  "keywords": [
+    "ux",
+    "optimistic-ui",
+    "skeleton-loading",
+    "loading-states",
+    "toast",
+    "motion",
+    "react",
+    "nextjs"
+  ],
+  "documentationUrl": "https://github.com/thinhledev/smooth-ux#readme",
+  "supportUrl": "https://github.com/thinhledev/smooth-ux/issues",
+  "privacyPolicyUrl": "https://github.com/thinhledev/smooth-ux/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/thinhledev/smooth-ux/blob/main/LICENSE"
 }
