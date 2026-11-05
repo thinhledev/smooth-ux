@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="" width="96" height="96">
+
 # Smooth UX
 
 A skill for Claude Code and Codex that removes silent clicks from a web front
