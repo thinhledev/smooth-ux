@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "smooth-ux",
+  "version": "1.0.0",
+  "description": "Make a web app feel responsive: every click answers (pressed, busy, done), optimistic UI with revert, content-shaped skeletons, instant route feedback and cheap motion. For React and Next.js front ends.",
+  "author": { "name": "Thinh Le", "url": "https://github.com/thinhledev" },
+  "homepage": "https://github.com/thinhledev/smooth-ux",
+  "repository": "https://github.com/thinhledev/smooth-ux",
+  "license": "MIT",
+  "keywords": ["ux", "optimistic-ui", "skeleton-loading", "loading-states", "toast", "motion", "react", "nextjs"]
+}

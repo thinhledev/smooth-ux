@@ -1,0 +1,13 @@
+{
+  "name": "smooth-ux",
+  "description": "Smooth UX: a skill that removes silent clicks from web front ends.",
+  "owner": { "name": "Thinh Le", "url": "https://github.com/thinhledev" },
+  "plugins": [
+    {
+      "name": "smooth-ux",
+      "source": "./",
+      "description": "Make a web app feel responsive: every click answers (pressed, busy, done), optimistic UI with revert, content-shaped skeletons, instant route feedback and cheap motion. For React and Next.js front ends.",
+      "category": "development"
+    }
+  ]
+}
