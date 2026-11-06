@@ -52,6 +52,12 @@ codex plugin marketplace add thinhledev/smooth-ux
 
 Then install **Smooth UX** from the Plugins Directory.
 
+### Agensi
+
+[Get Smooth UX on Agensi](https://www.agensi.io/r/THINHLE?to=/skills/smooth-ux-make-your-web-app-feel-responsive), the marketplace for agent skills. It's free with an Agensi account.
+
+<sub>This is my referral link. If you create an Agensi account through it, I earn a commission on skills you buy there in your first 6 months. It costs you nothing extra.</sub>
+
 ### Any agent that reads Agent Skills
 
 Copy `skills/smooth-ux/` into the agent's skills folder (for example
