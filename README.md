@@ -26,6 +26,12 @@ What your users get:
 The templates target React and Next.js (app router); the process and the
 rules apply to any front end.
 
+![Every control answers: rest, pressed, busy and done button states](assets/screenshots/01-every-click-answers.png)
+
+![An optimistic Pause that reverts with a clear message when the server fails](assets/screenshots/02-optimistic-with-revert.png)
+
+![A generic loading box next to a content-shaped skeleton and the loaded list](assets/screenshots/03-content-shaped-skeletons.png)
+
 ## Install
 
 ### Claude Code
